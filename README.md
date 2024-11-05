@@ -2,12 +2,12 @@
 
 ## Profil
 
-| Variable        | Isi                         |
-| --------------- | --------------------------- |
-| **Nama**        | Dendi Permana               |
-| **NIM**         | 312310694                   |
-| **Kelas**       | TI.23.A.6                   |
-| **Mata Kuliah** | Pemrograman Orientasi Objek |
+| Variable        | Isi            |
+| --------------- | -------------- |
+| **Nama**        | Dendi Permana  |
+| **NIM**         | 312310694      |
+| **Kelas**       | TI.23.A.6      |
+| **Mata Kuliah** | Pemrograma Web |
 
 ### Home
 
@@ -25,4 +25,4 @@
 
 ![Gambar 4](Screenshot/ss4.png)
 
-1[Gambar 5](Screenshot/ss5.png)
+![Gambar 5](Screenshot/ss5.png)
