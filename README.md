@@ -25,4 +25,4 @@
 
 ![Gambar 4](Screenshot/ss4.png)
 
-![Gambar 5](Screenshot/ss5.png)
+![Gambar 5](Screenahot/ss5.png)
